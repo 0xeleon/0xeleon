@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @0xeleon Eduardo León
-- 👀 I’m interested in NodeJS , React and Angular
-- 🌱 I’m currently learning ReacJS
-- 💞️ I’m looking to collaborate on @google
-- 📫 How to reach me eduardo_leon_miranda@hotmail.com
+- 👋 Hi, I’m @0xeleon Eduardo León.
+- 👀 I’m interested in NodeJS , React and Angular.
+- 🌱 I’m currently looking for a full-stack job.
+- 📫 How to reach me eduardo_leon_miranda@hotmail.com.
 
 <!---
 0xeleon/0xeleon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
